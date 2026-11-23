@@ -7,7 +7,7 @@ AI-powered CLI tool that analyzes images using Google Gemini and renames them ba
 
 ## Features
 
-- 🤖 **AI-Powered**: Uses Google Gemini 2.5 Flash to analyze image content
+- 🤖 **AI-Powered**: Uses Google Gemini 3.5 Flash-Lite to analyze image content
 - 🖼️ **Smart Renaming**: Generates descriptive filenames (3-6 words, lowercase, hyphen-separated)
 - 📅 **Date Support**: Optionally prepend today's date to filenames
 - 🏷️ **Custom Prefixes**: Add your own prefixes to organize files
