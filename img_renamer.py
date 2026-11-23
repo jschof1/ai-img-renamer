@@ -93,7 +93,7 @@ Example output: 'vintage-red-sports-car-garage'"""
 
         # Generate content using new SDK format
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.5-flash-lite",
             contents=[
                 types.Part(text=prompt),
                 types.Part(
